@@ -9,8 +9,6 @@
 - 💼 Skilled in `C#`, `.NET (MVC & API)`, `Entity Framework`, `SQL Server`, `LINQ`, and cloud platforms like `Azure`.  
 - 💻 I use software as a solution for real-world problems — always writing clean, scalable code.  
 - 📚 Always eager to learn new technologies and enhance my development & communication skills.  
-- 📄  This is [My Resume](https://drive.google.com/file/d/1gUeRfD3o8ZCOCHDf-SxEIS0gXoPvjlhg/view?usp=drivesdk)
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/in/amna-ali-2372752a4) and [Codeforces](https://codeforces.com/profile/amnaali123).
 
 ---
 
