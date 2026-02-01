@@ -12,9 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amnaali11&label=Profile%20views&color=0e75b6&style=flat" alt="amnaali11" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amna-ali-2372752a4" target="_blank">
